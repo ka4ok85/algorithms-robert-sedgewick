@@ -1,4 +1,5 @@
 target/
+.class
 
 ### STS ###
 .apt_generated
